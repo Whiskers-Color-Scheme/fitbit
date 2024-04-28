@@ -1,0 +1,40 @@
+export const PALETTE_COLORS = {
+  TIGER: {
+    NEUTRAL_TWO: "#FFF9F0",
+    TEXT: "#3E1900",
+    BANANA: "#A87B0A",
+    BLUEBERRY: "#5284BE",
+    CHERRY: "#B43A2A",
+    GRAPE: "#7D0E70",
+    KIWI: "#6A9534",
+    TANGERINE: "#C15D01",
+  },
+  PANTHER: {
+    NEUTRAL_TWO: "#0E0600",
+    TEXT: "#FFEEE2",
+    BANANA: "#FFE072",
+    BLUEBERRY: "#A5CEFF",
+    CHERRY: "#FF8C7C",
+    GRAPE: "#FFAAF5",
+    KIWI: "#B1E380",
+    TANGERINE: "#FFB26C",
+  },
+  OLED: {
+    NEUTRAL_TWO: "#000",
+    TEXT: "#FFEEE2",
+    BANANA: "#FFE072",
+    BLUEBERRY: "#A5CEFF",
+    CHERRY: "#FF8C7C",
+    GRAPE: "#FFAAF5",
+    KIWI: "#B1E380",
+    TANGERINE: "#FFB26C",
+  },
+};
+
+
+export const ACTIVE_TAB = {
+  CLOCK: 1,
+  CALENDAR: 2,
+  HEALTH: 3,
+  BATTERY: 4
+}

@@ -1,0 +1,37 @@
+#hours {
+  font-size: 120;
+  text-length: 2;
+  text-anchor: middle;
+  font-family: "System-Bold";
+}
+
+#minutes {
+  font-size: 120;
+  text-length: 2;
+  text-anchor: middle;
+  font-family: "System-Bold";
+}
+
+#date {
+  font-size: 30;
+  text-length: 10;
+  text-anchor: middle;
+  font-family: "System-Bold";
+}
+
+#battery {
+  font-size: 30;
+  text-length: 4;
+  text-anchor: middle;
+  font-family: "System-Bold";
+}
+
+#steps {
+  font-family: "System-Bold";
+  text-anchor: start;
+}
+
+#heartRate {
+  font-family: "System-Bold";
+  text-anchor: start;
+}
