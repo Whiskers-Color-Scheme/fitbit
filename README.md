@@ -12,7 +12,7 @@
 
 ## 👷‍♂️ Install
 
-1. Go to the clock gallery in your fitbit app or click [here](https://gallery.fitbit.com/details/2aa8dda3-aa77-4a05-a4f0-ca53d9ca1d13?key=78bc0609-9edd-42e9-9404-ccf95d30c339) to open it in the website
+1. Go to the clock gallery in your fitbit app or click [here](https://gallery.fitbit.com/details/275886dc-df2a-46e9-a781-69ec0891c36d) to open it in the website
 2. Search for fitbit
 3. Install and give all permissions
 
